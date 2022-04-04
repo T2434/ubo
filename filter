@@ -1,0 +1,17 @@
+! Title: Filterlist
+! Expires: 7 days
+! Description: Filterlist
+! Homepage: https://github.com/
+! Author: who?
+
+! youtube.com/live_chat
+! www.youtube.com###chat
+
+
+twitter.com##[aria-label$="who to follow" i]
+twitter.com##[aria-label$="trending now" i]
+twitter.com##[aria-label$="relevant people" i]
+! twitter.com##[aria-label$="Timeline: Carousel" i]
+
+||cdn.imag*ap.com/images/*.gif$image
+||cdnh.imag*ap.com/images/*.gif$image

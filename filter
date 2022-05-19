@@ -15,3 +15,20 @@ twitter.com##[aria-label$="relevant people" i]
 
 ||cdn.imag*ap.com/images/*.gif$image
 ||cdnh.imag*ap.com/images/*.gif$image
+
+! https://stackoverflow.com
+stackoverflow.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+
+! https://www.twitch.tv
+||supervisor.ext-twitch.tv/supervisor/v1/index.html$subdocument
+
+! https://open.spotify.com
+! open.spotify.com##.GenericModal__overlay--afterOpen.GenericModal__overlay--animated.GenericModal__overlay
+! open.spotify.com##[aria-label$="upgrade to premium" i]
+! open.spotify.com##span:has-text(Install App):upward(a)
+
+! https://10fastfingers.com
+10fastfingers.com##.CybotCookiebotDialogActive.CybotMultilevel.CybotEdge
+10fastfingers.com##.ez-video-center
+video-streaming.ezoic.com
+
